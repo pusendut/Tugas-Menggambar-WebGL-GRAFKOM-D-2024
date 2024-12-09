@@ -7,6 +7,7 @@ Azhar Abiyu Rasendriya H  | 5025211177
 Tugas ini adalah menampilkan objek 3D berbasis WebGL yang mendemonstrasikan rendering, efek cahaya, dan animasi untuk objek 3D. Tugas ini diimplementasikan menggunakan HTML, JavaScript, dan WebGL API. Untuk objek atau model yang akan buat adalah pil yang biasanya digunakan obat.
 
 Github Repo : https://github.com/pusendut/Tugas-Menggambar-WebGL-GRAFKOM-D-2024
+
 Github IO   : (sudah saya coba berkali-kali masih gagal deploy)
 
 ## Gambaran Kode
