@@ -8,7 +8,7 @@ Tugas ini adalah menampilkan objek 3D berbasis WebGL yang mendemonstrasikan rend
 
 Github Repo : https://github.com/pusendut/Tugas-Menggambar-WebGL-GRAFKOM-D-2024
 
-Github IO   : (sudah saya coba berkali-kali masih gagal deploy)
+Github IO   : https://tugas-menggambar-web-gl-grafkom-d-2024.vercel.app/ (Github page sudah saya coba berkali-kali tetapi masih gagal deploy)
 
 ## Gambaran Kode
 
